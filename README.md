@@ -4,6 +4,11 @@ This repository contains all the files and documentation for the **Data Professi
 
 ---
 
+## Dashboard Preview
+Here is a preview of the dashboard:
+
+![Dashboard Screenshot](dashboard/Data_Professional_Survey_Project.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
