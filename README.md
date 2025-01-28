@@ -16,8 +16,6 @@ Here is a preview of the dashboard:
 - [Technologies Used](#technologies-used)
 - [File Structure](#file-structure)
 - [How to Use](#how-to-use)
-- [Future Work](#future-work)
-- [License](#license)
 
 ---
 
